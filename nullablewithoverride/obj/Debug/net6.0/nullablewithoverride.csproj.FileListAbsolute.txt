@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\ConsoleApp2\nullablewithoverride\bin\Debug\net6.0\nullablewithoverride.exe
+C:\Users\DELL\source\repos\ConsoleApp2\nullablewithoverride\bin\Debug\net6.0\nullablewithoverride.deps.json
+C:\Users\DELL\source\repos\ConsoleApp2\nullablewithoverride\bin\Debug\net6.0\nullablewithoverride.runtimeconfig.json
+C:\Users\DELL\source\repos\ConsoleApp2\nullablewithoverride\bin\Debug\net6.0\nullablewithoverride.dll
+C:\Users\DELL\source\repos\ConsoleApp2\nullablewithoverride\bin\Debug\net6.0\nullablewithoverride.pdb
+C:\Users\DELL\source\repos\ConsoleApp2\nullablewithoverride\obj\Debug\net6.0\nullablewithoverride.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ConsoleApp2\nullablewithoverride\obj\Debug\net6.0\nullablewithoverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ConsoleApp2\nullablewithoverride\obj\Debug\net6.0\nullablewithoverride.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp2\nullablewithoverride\obj\Debug\net6.0\nullablewithoverride.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ConsoleApp2\nullablewithoverride\obj\Debug\net6.0\nullablewithoverride.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp2\nullablewithoverride\obj\Debug\net6.0\nullablewithoverride.dll
+C:\Users\DELL\source\repos\ConsoleApp2\nullablewithoverride\obj\Debug\net6.0\refint\nullablewithoverride.dll
+C:\Users\DELL\source\repos\ConsoleApp2\nullablewithoverride\obj\Debug\net6.0\nullablewithoverride.pdb
+C:\Users\DELL\source\repos\ConsoleApp2\nullablewithoverride\obj\Debug\net6.0\nullablewithoverride.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ConsoleApp2\nullablewithoverride\obj\Debug\net6.0\ref\nullablewithoverride.dll

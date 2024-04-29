@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\ConsoleApp1\abstarctclass\bin\Debug\net6.0\abstarctclass.exe
+C:\Users\DELL\source\repos\ConsoleApp1\abstarctclass\bin\Debug\net6.0\abstarctclass.deps.json
+C:\Users\DELL\source\repos\ConsoleApp1\abstarctclass\bin\Debug\net6.0\abstarctclass.runtimeconfig.json
+C:\Users\DELL\source\repos\ConsoleApp1\abstarctclass\bin\Debug\net6.0\abstarctclass.dll
+C:\Users\DELL\source\repos\ConsoleApp1\abstarctclass\bin\Debug\net6.0\abstarctclass.pdb
+C:\Users\DELL\source\repos\ConsoleApp1\abstarctclass\obj\Debug\net6.0\abstarctclass.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ConsoleApp1\abstarctclass\obj\Debug\net6.0\abstarctclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ConsoleApp1\abstarctclass\obj\Debug\net6.0\abstarctclass.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp1\abstarctclass\obj\Debug\net6.0\abstarctclass.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ConsoleApp1\abstarctclass\obj\Debug\net6.0\abstarctclass.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp1\abstarctclass\obj\Debug\net6.0\abstarctclass.dll
+C:\Users\DELL\source\repos\ConsoleApp1\abstarctclass\obj\Debug\net6.0\refint\abstarctclass.dll
+C:\Users\DELL\source\repos\ConsoleApp1\abstarctclass\obj\Debug\net6.0\abstarctclass.pdb
+C:\Users\DELL\source\repos\ConsoleApp1\abstarctclass\obj\Debug\net6.0\abstarctclass.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ConsoleApp1\abstarctclass\obj\Debug\net6.0\ref\abstarctclass.dll

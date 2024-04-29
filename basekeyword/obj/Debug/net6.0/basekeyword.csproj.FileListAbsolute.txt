@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\ConsoleApp2\basekeyword\bin\Debug\net6.0\basekeyword.exe
+C:\Users\DELL\source\repos\ConsoleApp2\basekeyword\bin\Debug\net6.0\basekeyword.deps.json
+C:\Users\DELL\source\repos\ConsoleApp2\basekeyword\bin\Debug\net6.0\basekeyword.runtimeconfig.json
+C:\Users\DELL\source\repos\ConsoleApp2\basekeyword\bin\Debug\net6.0\basekeyword.dll
+C:\Users\DELL\source\repos\ConsoleApp2\basekeyword\bin\Debug\net6.0\basekeyword.pdb
+C:\Users\DELL\source\repos\ConsoleApp2\basekeyword\obj\Debug\net6.0\basekeyword.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ConsoleApp2\basekeyword\obj\Debug\net6.0\basekeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ConsoleApp2\basekeyword\obj\Debug\net6.0\basekeyword.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp2\basekeyword\obj\Debug\net6.0\basekeyword.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ConsoleApp2\basekeyword\obj\Debug\net6.0\basekeyword.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp2\basekeyword\obj\Debug\net6.0\basekeyword.dll
+C:\Users\DELL\source\repos\ConsoleApp2\basekeyword\obj\Debug\net6.0\refint\basekeyword.dll
+C:\Users\DELL\source\repos\ConsoleApp2\basekeyword\obj\Debug\net6.0\basekeyword.pdb
+C:\Users\DELL\source\repos\ConsoleApp2\basekeyword\obj\Debug\net6.0\basekeyword.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ConsoleApp2\basekeyword\obj\Debug\net6.0\ref\basekeyword.dll

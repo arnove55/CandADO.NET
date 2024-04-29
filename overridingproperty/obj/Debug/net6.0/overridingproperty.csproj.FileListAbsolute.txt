@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\ConsoleApp1\overridingproperty\bin\Debug\net6.0\overridingproperty.exe
+C:\Users\DELL\source\repos\ConsoleApp1\overridingproperty\bin\Debug\net6.0\overridingproperty.deps.json
+C:\Users\DELL\source\repos\ConsoleApp1\overridingproperty\bin\Debug\net6.0\overridingproperty.runtimeconfig.json
+C:\Users\DELL\source\repos\ConsoleApp1\overridingproperty\bin\Debug\net6.0\overridingproperty.dll
+C:\Users\DELL\source\repos\ConsoleApp1\overridingproperty\bin\Debug\net6.0\overridingproperty.pdb
+C:\Users\DELL\source\repos\ConsoleApp1\overridingproperty\obj\Debug\net6.0\overridingproperty.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ConsoleApp1\overridingproperty\obj\Debug\net6.0\overridingproperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ConsoleApp1\overridingproperty\obj\Debug\net6.0\overridingproperty.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp1\overridingproperty\obj\Debug\net6.0\overridingproperty.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ConsoleApp1\overridingproperty\obj\Debug\net6.0\overridingproperty.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp1\overridingproperty\obj\Debug\net6.0\overridingproperty.dll
+C:\Users\DELL\source\repos\ConsoleApp1\overridingproperty\obj\Debug\net6.0\refint\overridingproperty.dll
+C:\Users\DELL\source\repos\ConsoleApp1\overridingproperty\obj\Debug\net6.0\overridingproperty.pdb
+C:\Users\DELL\source\repos\ConsoleApp1\overridingproperty\obj\Debug\net6.0\overridingproperty.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ConsoleApp1\overridingproperty\obj\Debug\net6.0\ref\overridingproperty.dll

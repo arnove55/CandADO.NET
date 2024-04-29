@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\ConsoleApp2\namespace\bin\Debug\net6.0\namespaces.exe
+C:\Users\DELL\source\repos\ConsoleApp2\namespace\bin\Debug\net6.0\namespaces.deps.json
+C:\Users\DELL\source\repos\ConsoleApp2\namespace\bin\Debug\net6.0\namespaces.runtimeconfig.json
+C:\Users\DELL\source\repos\ConsoleApp2\namespace\bin\Debug\net6.0\namespaces.dll
+C:\Users\DELL\source\repos\ConsoleApp2\namespace\bin\Debug\net6.0\namespaces.pdb
+C:\Users\DELL\source\repos\ConsoleApp2\namespace\obj\Debug\net6.0\namespaces.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ConsoleApp2\namespace\obj\Debug\net6.0\namespaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ConsoleApp2\namespace\obj\Debug\net6.0\namespaces.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp2\namespace\obj\Debug\net6.0\namespaces.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ConsoleApp2\namespace\obj\Debug\net6.0\namespaces.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp2\namespace\obj\Debug\net6.0\namespaces.dll
+C:\Users\DELL\source\repos\ConsoleApp2\namespace\obj\Debug\net6.0\refint\namespaces.dll
+C:\Users\DELL\source\repos\ConsoleApp2\namespace\obj\Debug\net6.0\namespaces.pdb
+C:\Users\DELL\source\repos\ConsoleApp2\namespace\obj\Debug\net6.0\namespaces.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ConsoleApp2\namespace\obj\Debug\net6.0\ref\namespaces.dll

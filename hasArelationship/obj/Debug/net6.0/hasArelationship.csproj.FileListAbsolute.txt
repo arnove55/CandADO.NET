@@ -1,0 +1,5 @@
+C:\Users\DELL\source\repos\ConsoleApp1\hasArelationship\obj\Debug\net6.0\hasArelationship.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ConsoleApp1\hasArelationship\obj\Debug\net6.0\hasArelationship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ConsoleApp1\hasArelationship\obj\Debug\net6.0\hasArelationship.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp1\hasArelationship\obj\Debug\net6.0\hasArelationship.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ConsoleApp1\hasArelationship\obj\Debug\net6.0\hasArelationship.csproj.CoreCompileInputs.cache

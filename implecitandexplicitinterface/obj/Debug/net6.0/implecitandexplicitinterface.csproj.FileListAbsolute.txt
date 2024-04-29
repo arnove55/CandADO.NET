@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\ConsoleApp1\implecitandexplicitinterface\bin\Debug\net6.0\implecitandexplicitinterface.exe
+C:\Users\DELL\source\repos\ConsoleApp1\implecitandexplicitinterface\bin\Debug\net6.0\implecitandexplicitinterface.deps.json
+C:\Users\DELL\source\repos\ConsoleApp1\implecitandexplicitinterface\bin\Debug\net6.0\implecitandexplicitinterface.runtimeconfig.json
+C:\Users\DELL\source\repos\ConsoleApp1\implecitandexplicitinterface\bin\Debug\net6.0\implecitandexplicitinterface.dll
+C:\Users\DELL\source\repos\ConsoleApp1\implecitandexplicitinterface\bin\Debug\net6.0\implecitandexplicitinterface.pdb
+C:\Users\DELL\source\repos\ConsoleApp1\implecitandexplicitinterface\obj\Debug\net6.0\implecitandexplicitinterface.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ConsoleApp1\implecitandexplicitinterface\obj\Debug\net6.0\implecitandexplicitinterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ConsoleApp1\implecitandexplicitinterface\obj\Debug\net6.0\implecitandexplicitinterface.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp1\implecitandexplicitinterface\obj\Debug\net6.0\implecitandexplicitinterface.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ConsoleApp1\implecitandexplicitinterface\obj\Debug\net6.0\implecitandexplicitinterface.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp1\implecitandexplicitinterface\obj\Debug\net6.0\implecitandexplicitinterface.dll
+C:\Users\DELL\source\repos\ConsoleApp1\implecitandexplicitinterface\obj\Debug\net6.0\refint\implecitandexplicitinterface.dll
+C:\Users\DELL\source\repos\ConsoleApp1\implecitandexplicitinterface\obj\Debug\net6.0\implecitandexplicitinterface.pdb
+C:\Users\DELL\source\repos\ConsoleApp1\implecitandexplicitinterface\obj\Debug\net6.0\implecitandexplicitinterface.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ConsoleApp1\implecitandexplicitinterface\obj\Debug\net6.0\ref\implecitandexplicitinterface.dll

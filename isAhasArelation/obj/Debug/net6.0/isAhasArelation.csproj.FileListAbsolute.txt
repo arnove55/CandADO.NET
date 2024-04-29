@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\ConsoleApp2\isAhasArelation\bin\Debug\net6.0\isAhasArelation.exe
+C:\Users\DELL\source\repos\ConsoleApp2\isAhasArelation\bin\Debug\net6.0\isAhasArelation.deps.json
+C:\Users\DELL\source\repos\ConsoleApp2\isAhasArelation\bin\Debug\net6.0\isAhasArelation.runtimeconfig.json
+C:\Users\DELL\source\repos\ConsoleApp2\isAhasArelation\bin\Debug\net6.0\isAhasArelation.dll
+C:\Users\DELL\source\repos\ConsoleApp2\isAhasArelation\bin\Debug\net6.0\isAhasArelation.pdb
+C:\Users\DELL\source\repos\ConsoleApp2\isAhasArelation\obj\Debug\net6.0\isAhasArelation.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ConsoleApp2\isAhasArelation\obj\Debug\net6.0\isAhasArelation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ConsoleApp2\isAhasArelation\obj\Debug\net6.0\isAhasArelation.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp2\isAhasArelation\obj\Debug\net6.0\isAhasArelation.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ConsoleApp2\isAhasArelation\obj\Debug\net6.0\isAhasArelation.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp2\isAhasArelation\obj\Debug\net6.0\isAhasArelation.dll
+C:\Users\DELL\source\repos\ConsoleApp2\isAhasArelation\obj\Debug\net6.0\refint\isAhasArelation.dll
+C:\Users\DELL\source\repos\ConsoleApp2\isAhasArelation\obj\Debug\net6.0\isAhasArelation.pdb
+C:\Users\DELL\source\repos\ConsoleApp2\isAhasArelation\obj\Debug\net6.0\isAhasArelation.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ConsoleApp2\isAhasArelation\obj\Debug\net6.0\ref\isAhasArelation.dll

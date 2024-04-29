@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\ConsoleApp2\Staticvariable\bin\Debug\net6.0\Staticvariable.exe
+C:\Users\DELL\source\repos\ConsoleApp2\Staticvariable\bin\Debug\net6.0\Staticvariable.deps.json
+C:\Users\DELL\source\repos\ConsoleApp2\Staticvariable\bin\Debug\net6.0\Staticvariable.runtimeconfig.json
+C:\Users\DELL\source\repos\ConsoleApp2\Staticvariable\bin\Debug\net6.0\Staticvariable.dll
+C:\Users\DELL\source\repos\ConsoleApp2\Staticvariable\bin\Debug\net6.0\Staticvariable.pdb
+C:\Users\DELL\source\repos\ConsoleApp2\Staticvariable\obj\Debug\net6.0\Staticvariable.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ConsoleApp2\Staticvariable\obj\Debug\net6.0\Staticvariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ConsoleApp2\Staticvariable\obj\Debug\net6.0\Staticvariable.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp2\Staticvariable\obj\Debug\net6.0\Staticvariable.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ConsoleApp2\Staticvariable\obj\Debug\net6.0\Staticvariable.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp2\Staticvariable\obj\Debug\net6.0\Staticvariable.dll
+C:\Users\DELL\source\repos\ConsoleApp2\Staticvariable\obj\Debug\net6.0\refint\Staticvariable.dll
+C:\Users\DELL\source\repos\ConsoleApp2\Staticvariable\obj\Debug\net6.0\Staticvariable.pdb
+C:\Users\DELL\source\repos\ConsoleApp2\Staticvariable\obj\Debug\net6.0\Staticvariable.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ConsoleApp2\Staticvariable\obj\Debug\net6.0\ref\Staticvariable.dll

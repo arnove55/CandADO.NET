@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\ConsoleApp2\structures\bin\Debug\net6.0\structures.exe
+C:\Users\DELL\source\repos\ConsoleApp2\structures\bin\Debug\net6.0\structures.deps.json
+C:\Users\DELL\source\repos\ConsoleApp2\structures\bin\Debug\net6.0\structures.runtimeconfig.json
+C:\Users\DELL\source\repos\ConsoleApp2\structures\bin\Debug\net6.0\structures.dll
+C:\Users\DELL\source\repos\ConsoleApp2\structures\bin\Debug\net6.0\structures.pdb
+C:\Users\DELL\source\repos\ConsoleApp2\structures\obj\Debug\net6.0\structures.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ConsoleApp2\structures\obj\Debug\net6.0\structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ConsoleApp2\structures\obj\Debug\net6.0\structures.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp2\structures\obj\Debug\net6.0\structures.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ConsoleApp2\structures\obj\Debug\net6.0\structures.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp2\structures\obj\Debug\net6.0\structures.dll
+C:\Users\DELL\source\repos\ConsoleApp2\structures\obj\Debug\net6.0\refint\structures.dll
+C:\Users\DELL\source\repos\ConsoleApp2\structures\obj\Debug\net6.0\structures.pdb
+C:\Users\DELL\source\repos\ConsoleApp2\structures\obj\Debug\net6.0\structures.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ConsoleApp2\structures\obj\Debug\net6.0\ref\structures.dll

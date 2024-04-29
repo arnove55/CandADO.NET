@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\ConsoleApp2\interfacep2\bin\Debug\net6.0\interfacep2.exe
+C:\Users\DELL\source\repos\ConsoleApp2\interfacep2\bin\Debug\net6.0\interfacep2.deps.json
+C:\Users\DELL\source\repos\ConsoleApp2\interfacep2\bin\Debug\net6.0\interfacep2.runtimeconfig.json
+C:\Users\DELL\source\repos\ConsoleApp2\interfacep2\bin\Debug\net6.0\interfacep2.dll
+C:\Users\DELL\source\repos\ConsoleApp2\interfacep2\bin\Debug\net6.0\interfacep2.pdb
+C:\Users\DELL\source\repos\ConsoleApp2\interfacep2\obj\Debug\net6.0\interfacep2.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ConsoleApp2\interfacep2\obj\Debug\net6.0\interfacep2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ConsoleApp2\interfacep2\obj\Debug\net6.0\interfacep2.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp2\interfacep2\obj\Debug\net6.0\interfacep2.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ConsoleApp2\interfacep2\obj\Debug\net6.0\interfacep2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp2\interfacep2\obj\Debug\net6.0\interfacep2.dll
+C:\Users\DELL\source\repos\ConsoleApp2\interfacep2\obj\Debug\net6.0\refint\interfacep2.dll
+C:\Users\DELL\source\repos\ConsoleApp2\interfacep2\obj\Debug\net6.0\interfacep2.pdb
+C:\Users\DELL\source\repos\ConsoleApp2\interfacep2\obj\Debug\net6.0\interfacep2.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ConsoleApp2\interfacep2\obj\Debug\net6.0\ref\interfacep2.dll

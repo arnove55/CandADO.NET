@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\ConsoleApp1\newandoverride\obj\Debug\net6.0\newandoverride.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ConsoleApp1\newandoverride\obj\Debug\net6.0\newandoverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ConsoleApp1\newandoverride\obj\Debug\net6.0\newandoverride.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp1\newandoverride\obj\Debug\net6.0\newandoverride.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ConsoleApp1\newandoverride\obj\Debug\net6.0\newandoverride.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ConsoleApp1\newandoverride\bin\Debug\net6.0\newandoverride.exe
+C:\Users\DELL\source\repos\ConsoleApp1\newandoverride\bin\Debug\net6.0\newandoverride.deps.json
+C:\Users\DELL\source\repos\ConsoleApp1\newandoverride\bin\Debug\net6.0\newandoverride.runtimeconfig.json
+C:\Users\DELL\source\repos\ConsoleApp1\newandoverride\bin\Debug\net6.0\newandoverride.dll
+C:\Users\DELL\source\repos\ConsoleApp1\newandoverride\bin\Debug\net6.0\newandoverride.pdb
+C:\Users\DELL\source\repos\ConsoleApp1\newandoverride\obj\Debug\net6.0\newandoverride.dll
+C:\Users\DELL\source\repos\ConsoleApp1\newandoverride\obj\Debug\net6.0\refint\newandoverride.dll
+C:\Users\DELL\source\repos\ConsoleApp1\newandoverride\obj\Debug\net6.0\newandoverride.pdb
+C:\Users\DELL\source\repos\ConsoleApp1\newandoverride\obj\Debug\net6.0\newandoverride.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ConsoleApp1\newandoverride\obj\Debug\net6.0\ref\newandoverride.dll
